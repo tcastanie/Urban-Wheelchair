@@ -17,7 +17,11 @@ public class changeCamera : MonoBehaviour {
 	void Update () {
 		if (Input.GetKeyDown(KeyCode.C)) {
 			cameraFauteuil.enabled = !cameraFauteuil.enabled;
-			cameraPlan.enabled = !cameraPlan.enabled;
-		}
+            cameraPlan.enabled = !cameraPlan.enabled;
+            varGlobales.isCamFauteuil = !varGlobales.isCamFauteuil;
+            Debug.Log(varGlobales.isCamFauteuil);
+            GetComponent<CharacterController>().enabled = varGlobales.isCamFauteuil;
+            GetComponent<AudioSource>().enabled = varGlobales.isCamFauteuil;
+        }
 	}
 }

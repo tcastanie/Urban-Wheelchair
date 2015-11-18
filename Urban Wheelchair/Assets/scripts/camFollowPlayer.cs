@@ -12,6 +12,8 @@ public class camFollowPlayer : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.position = new Vector3(player.transform.position.x,10,player.transform.position.z);
+        if (varGlobales.isCamFauteuil){
+            transform.position = new Vector3(player.transform.position.x, 10, player.transform.position.z);
+        }
 	}
 }
