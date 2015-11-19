@@ -11,7 +11,9 @@ public class changeCamera : MonoBehaviour {
 	void Start () {
 		cameraFauteuil.enabled = true;
 		cameraPlan.enabled = false;
-	}
+
+        Cursor.visible = !cameraFauteuil.enabled;
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -19,9 +21,14 @@ public class changeCamera : MonoBehaviour {
 			cameraFauteuil.enabled = !cameraFauteuil.enabled;
             cameraPlan.enabled = !cameraPlan.enabled;
             varGlobales.isCamFauteuil = !varGlobales.isCamFauteuil;
+
+            Cursor.visible = !varGlobales.isCamFauteuil;
+
             //Debug.Log(varGlobales.isCamFauteuil);
             GetComponent<CharacterController>().enabled = varGlobales.isCamFauteuil;
+            GetComponent<UnityStandardAssets.Characters.FirstPerson.FirstPersonController>().enabled = varGlobales.isCamFauteuil;
             GetComponent<AudioSource>().enabled = varGlobales.isCamFauteuil;
+            
         }
 	}
 }
