@@ -4,16 +4,21 @@ using System.Collections;
 public class camFollowPlayer : MonoBehaviour {
 
 	public GameObject player;
+    public Camera cameraPlan;
 
-	// Use this for initialization
+    public int hauteurCamera;
+
+    //La camera-plan suit le joueur au-dessus
+    
 	void Start () {
-		transform.position = new Vector3(player.transform.position.x,10,player.transform.position.z);
-	}
+		transform.position = new Vector3(player.transform.position.x, 10, player.transform.position.z);
+        cameraPlan.orthographicSize = hauteurCamera;
+    }
 	
-	// Update is called once per frame
 	void Update () {
         if (varGlobales.isCamFauteuil){
             transform.position = new Vector3(player.transform.position.x, 10, player.transform.position.z);
+            cameraPlan.orthographicSize = hauteurCamera;
         }
 	}
 }
