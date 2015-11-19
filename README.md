@@ -6,13 +6,13 @@ Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 
 ## 20 novembre 2015
 
-- gestion des caméras _Plan_ et _Première personne_ [x]
-- changement d'équipement sur clic en mode _Plan_ [x]
-- Ajout d'effets sur la _caméra Plan_ [x]
+- gestion des caméras _Plan_ et _Première personne_
+- changement d'équipement sur clic en mode _Plan_
+- Ajout d'effets sur la _caméra Plan_
 
 ![](./pictures/20nov01.jpg)
-![](./pictures/20nov02.jpg)
 ![](./pictures/20nov03.png)
+![](./pictures/20nov02.jpg)
 
 ## 12 novembre 2015
 
