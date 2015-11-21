@@ -2,8 +2,8 @@
 
 Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 
-> [Cahier des charges](./Cahier des charges/cahierDesCharges.md)
-> 
+**[Cahier des charges](./Cahier des charges/cahierDesCharges.md)**
+
 ## 21 novembre 2015
 
 - création d'un trottoir avec 3 états possibles :
@@ -11,9 +11,9 @@ Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 	+ adapté aux fauteuils roulants
 	+ adapté aux fauteuils roulants & aux aveugles
 
-![trottoirBad](./pictures/20nov01.jpg)
-![trottoirBien](./pictures/20nov03.png)
-![trottoirMieux](./pictures/20nov02.jpg)
+![trottoirBad](./pictures/21nov01.jpg)
+![trottoirBien](./pictures/21nov03.png)
+![trottoirMieux](./pictures/21nov02.jpg)
 
 
 ## 20 novembre 2015
