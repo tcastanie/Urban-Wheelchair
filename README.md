@@ -11,9 +11,9 @@ Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 	+ adapté aux fauteuils roulants
 	+ adapté aux fauteuils roulants & aux aveugles
 
-![trottoirBad](./pictures/21nov01.jpg)
-![trottoirBien](./pictures/21nov03.png)
-![trottoirMieux](./pictures/21nov02.jpg)
+![trottoirBad](./pictures/21nov01.png)
+![trottoirBien](./pictures/21nov02.png)
+![trottoirMieux](./pictures/21nov03.png)
 
 
 ## 20 novembre 2015
