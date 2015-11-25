@@ -4,6 +4,10 @@ Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 
 **[Cahier des charges](./Cahier des charges/cahierDesCharges.md)**
 
+## 25 novembre 2015
+
+![escalierCorum](./pictures/25nov.png)
+
 ## 21 novembre 2015
 
 - création d'un trottoir avec 3 états possibles :
