@@ -4,6 +4,10 @@ Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 
 **[Cahier des charges](./Cahier des charges/cahierDesCharges.md)**
 
+## 01 décembre 2015
+
+![julie](./pictures/01dec.png)
+
 ## 25 novembre 2015
 
 ![escalierCorum](./pictures/25nov.png)

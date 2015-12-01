@@ -18,6 +18,7 @@ public static class varGlobales {
     public static int currentLevel;             //0 pour niveau sans argent, 1 pour normal, 2 pour niveau free
 
     //variable de jeu
+    public static int etatJeu = 0;              //0 accueil, 1 jeu fps, 2 mode caméra, 3 mode récap
     public static bool isCamFauteuil = true;    //true si vue fps active, false si vue camera active
     public static int etatRampe;                //0 si escaliers, 1 si rampe, 2 si rampe-escalier
     public static int etatTrottoir;             //0 si trottoir mauvais, 1 si bien, 2 si mieux
