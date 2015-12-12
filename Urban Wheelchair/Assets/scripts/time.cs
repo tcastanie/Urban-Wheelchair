@@ -7,12 +7,16 @@ public class time : MonoBehaviour {
 
     public GameObject textTemps;
     public GameObject textArgent;
+    public GameObject panelExplication;
+    public GameObject textExplication;
 
     bool porte;
 
     // Use this for initialization
     void Start () {
         varGlobales.tempsActuel = 0;
+        varGlobales.currentExp = " ";
+
         string sTemps = varGlobales.tempsActuel.ToString();
         textTemps.GetComponent<Text>().text = sTemps.PadLeft(3, '0');
 
@@ -36,8 +40,6 @@ public class time : MonoBehaviour {
             StartCoroutine(timer());
             porte = false;
         }
-        Debug.Log(varGlobales.moneyStart);
-        Debug.Log(varGlobales.moneyCurrent);
 
         string sArgent = varGlobales.moneyCurrent.ToString().PadLeft(6, '0');
         if (varGlobales.isFirstTime) {
@@ -45,6 +47,21 @@ public class time : MonoBehaviour {
         } else {
             textArgent.GetComponent<Text>().text = sArgent + " euros";
         }
+
+        //vue plan
+        if (varGlobales.etatJeu == 1 && !varGlobales.isCamFauteuil) {
+            panelExplication.SetActive(true);
+            textExplication.GetComponent<Text>().text = varGlobales.currentExp;
+        } else {
+            panelExplication.SetActive(false);
+        }
+
+        varGlobales.moneyCurrent = varGlobales.moneyStart - (
+            varGlobales.moneyEsc +
+            varGlobales.moneyTrottoir +
+            varGlobales.moneyTerrasse +
+            varGlobales.moneyTravaux +
+            varGlobales.moneyCorum);
 
     }
 

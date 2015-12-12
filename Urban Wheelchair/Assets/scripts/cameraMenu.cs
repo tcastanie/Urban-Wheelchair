@@ -9,6 +9,7 @@ public class cameraMenu : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        varGlobales.etatJeu = 0;
         if (varGlobales.tempsBest == 999) {
             score.GetComponent<Text>().text = "Ton record s'affichera ici !";
         } else {

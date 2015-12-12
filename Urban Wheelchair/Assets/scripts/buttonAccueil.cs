@@ -21,6 +21,7 @@ public class buttonAccueil : MonoBehaviour {
         } else {
             varGlobales.moneyStart = 80000;
         }
+        varGlobales.etatJeu = 1;
         Application.LoadLevel("mainScene");
     }
 }

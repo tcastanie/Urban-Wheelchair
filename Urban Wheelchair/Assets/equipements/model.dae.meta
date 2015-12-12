@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 48d129aedf11c164da60b16520087fb0
+timeCreated: 1449942431
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: fere
+    100002: ID102
+    100004: ID102 1
+    100006: ID102 2
+    100008: ID108
+    100010: ID108 1
+    100012: ID108 2
+    100014: ID114
+    100016: ID114 1
+    100018: ID114 2
+    100020: ID120
+    100022: ID120 1
+    100024: ID120 2
+    100026: ID126
+    100028: ID126 1
+    100030: ID126 2
+    100032: ID132
+    100034: ID132 1
+    100036: ID132 2
+    100038: ID154
+    100040: ID160
+    100042: ID174
+    100044: ID18
+    100046: ID180
+    100048: ID188
+    100050: ID196
+    100052: ID202
+    100054: ID210
+    100056: ID216
+    100058: ID222
+    100060: ID228
+    100062: ID234
+    100064: ID24
+    100066: ID240
+    100068: ID246
+    100070: ID252
+    100072: ID258
+    100074: ID266
+    100076: ID272
+    100078: ID278
+    100080: ID284
+    100082: ID290
+    100084: ID296
+    100086: ID302
+    100088: ID315
+    100090: ID323
+    100092: ID331
+    100094: ID337
+    100096: ID34
+    100098: ID343
+    100100: ID349
+    100102: ID355
+    100104: ID361
+    100106: ID40
+    100108: ID46
+    100110: ID52
+    100112: ID58
+    100114: ID64
+    100116: ID70
+    100118: ID84
+    100120: ID84 1
+    100122: ID84 2
+    100124: ID90
+    100126: ID90 1
+    100128: ID90 2
+    100130: ID96
+    100132: ID96 1
+    100134: ID96 2
+    100136: instance_0
+    100138: instance_1
+    100140: instance_2
+    100142: instance_3
+    100144: instance_4
+    100146: Last Saved SketchUp View
+    100148: //RootNode
+    100150: Truck_Wheel_18
+    100152: Truck_Wheel_18 1
+    100154: Truck_Wheel_18 2
+    100156: Truck_Wheel_18 3
+    400000: fere
+    400002: ID102
+    400004: ID102 1
+    400006: ID102 2
+    400008: ID108
+    400010: ID108 1
+    400012: ID108 2
+    400014: ID114
+    400016: ID114 1
+    400018: ID114 2
+    400020: ID120
+    400022: ID120 1
+    400024: ID120 2
+    400026: ID126
+    400028: ID126 1
+    400030: ID126 2
+    400032: ID132
+    400034: ID132 1
+    400036: ID132 2
+    400038: ID154
+    400040: ID160
+    400042: ID174
+    400044: ID18
+    400046: ID180
+    400048: ID188
+    400050: ID196
+    400052: ID202
+    400054: ID210
+    400056: ID216
+    400058: ID222
+    400060: ID228
+    400062: ID234
+    400064: ID24
+    400066: ID240
+    400068: ID246
+    400070: ID252
+    400072: ID258
+    400074: ID266
+    400076: ID272
+    400078: ID278
+    400080: ID284
+    400082: ID290
+    400084: ID296
+    400086: ID302
+    400088: ID315
+    400090: ID323
+    400092: ID331
+    400094: ID337
+    400096: ID34
+    400098: ID343
+    400100: ID349
+    400102: ID355
+    400104: ID361
+    400106: ID40
+    400108: ID46
+    400110: ID52
+    400112: ID58
+    400114: ID64
+    400116: ID70
+    400118: ID84
+    400120: ID84 1
+    400122: ID84 2
+    400124: ID90
+    400126: ID90 1
+    400128: ID90 2
+    400130: ID96
+    400132: ID96 1
+    400134: ID96 2
+    400136: instance_0
+    400138: instance_1
+    400140: instance_2
+    400142: instance_3
+    400144: instance_4
+    400146: Last Saved SketchUp View
+    400148: //RootNode
+    400150: Truck_Wheel_18
+    400152: Truck_Wheel_18 1
+    400154: Truck_Wheel_18 2
+    400156: Truck_Wheel_18 3
+    2300000: fere
+    2300002: ID102
+    2300004: ID102 1
+    2300006: ID102 2
+    2300008: ID108
+    2300010: ID108 1
+    2300012: ID108 2
+    2300014: ID114
+    2300016: ID114 1
+    2300018: ID114 2
+    2300020: ID120
+    2300022: ID120 1
+    2300024: ID120 2
+    2300026: ID126
+    2300028: ID126 1
+    2300030: ID126 2
+    2300032: ID132
+    2300034: ID132 1
+    2300036: ID132 2
+    2300038: ID154
+    2300040: ID160
+    2300042: ID174
+    2300044: ID18
+    2300046: ID180
+    2300048: ID188
+    2300050: ID196
+    2300052: ID202
+    2300054: ID210
+    2300056: ID216
+    2300058: ID222
+    2300060: ID228
+    2300062: ID234
+    2300064: ID24
+    2300066: ID240
+    2300068: ID246
+    2300070: ID252
+    2300072: ID258
+    2300074: ID266
+    2300076: ID272
+    2300078: ID278
+    2300080: ID284
+    2300082: ID290
+    2300084: ID296
+    2300086: ID302
+    2300088: ID315
+    2300090: ID323
+    2300092: ID331
+    2300094: ID337
+    2300096: ID34
+    2300098: ID343
+    2300100: ID349
+    2300102: ID355
+    2300104: ID361
+    2300106: ID40
+    2300108: ID46
+    2300110: ID52
+    2300112: ID58
+    2300114: ID64
+    2300116: ID70
+    2300118: ID84
+    2300120: ID84 1
+    2300122: ID84 2
+    2300124: ID90
+    2300126: ID90 1
+    2300128: ID90 2
+    2300130: ID96
+    2300132: ID96 1
+    2300134: ID96 2
+    2300136: Truck_Wheel_18
+    2300138: Truck_Wheel_18 1
+    2300140: Truck_Wheel_18 2
+    2300142: Truck_Wheel_18 3
+    3300000: fere
+    3300002: ID102
+    3300004: ID102 1
+    3300006: ID102 2
+    3300008: ID108
+    3300010: ID108 1
+    3300012: ID108 2
+    3300014: ID114
+    3300016: ID114 1
+    3300018: ID114 2
+    3300020: ID120
+    3300022: ID120 1
+    3300024: ID120 2
+    3300026: ID126
+    3300028: ID126 1
+    3300030: ID126 2
+    3300032: ID132
+    3300034: ID132 1
+    3300036: ID132 2
+    3300038: ID154
+    3300040: ID160
+    3300042: ID174
+    3300044: ID18
+    3300046: ID180
+    3300048: ID188
+    3300050: ID196
+    3300052: ID202
+    3300054: ID210
+    3300056: ID216
+    3300058: ID222
+    3300060: ID228
+    3300062: ID234
+    3300064: ID24
+    3300066: ID240
+    3300068: ID246
+    3300070: ID252
+    3300072: ID258
+    3300074: ID266
+    3300076: ID272
+    3300078: ID278
+    3300080: ID284
+    3300082: ID290
+    3300084: ID296
+    3300086: ID302
+    3300088: ID315
+    3300090: ID323
+    3300092: ID331
+    3300094: ID337
+    3300096: ID34
+    3300098: ID343
+    3300100: ID349
+    3300102: ID355
+    3300104: ID361
+    3300106: ID40
+    3300108: ID46
+    3300110: ID52
+    3300112: ID58
+    3300114: ID64
+    3300116: ID70
+    3300118: ID84
+    3300120: ID84 1
+    3300122: ID84 2
+    3300124: ID90
+    3300126: ID90 1
+    3300128: ID90 2
+    3300130: ID96
+    3300132: ID96 1
+    3300134: ID96 2
+    3300136: Truck_Wheel_18
+    3300138: Truck_Wheel_18 1
+    3300140: Truck_Wheel_18 2
+    3300142: Truck_Wheel_18 3
+    4300000: fere
+    4300002: ID154
+    4300004: ID160
+    4300006: ID174
+    4300008: ID180
+    4300010: ID188
+    4300012: ID196
+    4300014: ID202
+    4300016: ID210
+    4300018: ID216
+    4300020: ID222
+    4300022: ID228
+    4300024: ID234
+    4300026: ID240
+    4300028: ID246
+    4300030: ID252
+    4300032: ID258
+    4300034: ID266
+    4300036: ID272
+    4300038: ID278
+    4300040: ID284
+    4300042: ID290
+    4300044: ID296
+    4300046: ID302
+    4300048: ID315
+    4300050: ID323
+    4300052: ID331
+    4300054: ID337
+    4300056: ID343
+    4300058: ID349
+    4300060: ID355
+    4300062: ID361
+    4300064: Truck_Wheel_18
+    4300066: ID18
+    4300068: ID24
+    4300070: ID34
+    4300072: ID40
+    4300074: ID46
+    4300076: ID52
+    4300078: ID58
+    4300080: ID64
+    4300082: ID70
+    4300084: Truck_Wheel_18
+    4300086: ID84
+    4300088: ID90
+    4300090: ID96
+    4300092: ID102
+    4300094: ID108
+    4300096: ID114
+    4300098: ID120
+    4300100: ID126
+    4300102: ID132
+    6400000: fere
+    6400002: ID102
+    6400004: ID102 1
+    6400006: ID102 2
+    6400008: ID108
+    6400010: ID108 1
+    6400012: ID108 2
+    6400014: ID114
+    6400016: ID114 1
+    6400018: ID114 2
+    6400020: ID120
+    6400022: ID120 1
+    6400024: ID120 2
+    6400026: ID126
+    6400028: ID126 1
+    6400030: ID126 2
+    6400032: ID132
+    6400034: ID132 1
+    6400036: ID132 2
+    6400038: ID154
+    6400040: ID160
+    6400042: ID174
+    6400044: ID18
+    6400046: ID180
+    6400048: ID188
+    6400050: ID196
+    6400052: ID202
+    6400054: ID210
+    6400056: ID216
+    6400058: ID222
+    6400060: ID228
+    6400062: ID234
+    6400064: ID24
+    6400066: ID240
+    6400068: ID246
+    6400070: ID252
+    6400072: ID258
+    6400074: ID266
+    6400076: ID272
+    6400078: ID278
+    6400080: ID284
+    6400082: ID290
+    6400084: ID296
+    6400086: ID302
+    6400088: ID315
+    6400090: ID323
+    6400092: ID331
+    6400094: ID337
+    6400096: ID34
+    6400098: ID343
+    6400100: ID349
+    6400102: ID355
+    6400104: ID361
+    6400106: ID40
+    6400108: ID46
+    6400110: ID52
+    6400112: ID58
+    6400114: ID64
+    6400116: ID70
+    6400118: ID84
+    6400120: ID84 1
+    6400122: ID84 2
+    6400124: ID90
+    6400126: ID90 1
+    6400128: ID90 2
+    6400130: ID96
+    6400132: ID96 1
+    6400134: ID96 2
+    6400136: Truck_Wheel_18
+    6400138: Truck_Wheel_18 1
+    6400140: Truck_Wheel_18 2
+    6400142: Truck_Wheel_18 3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

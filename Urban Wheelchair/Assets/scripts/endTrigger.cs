@@ -17,7 +17,7 @@ public class endTrigger : MonoBehaviour {
         if (other.gameObject.CompareTag("Player")) {
             //le joueur a terminé la course
             varGlobales.isFinished = true;
-            varGlobales.etatJeu = 3;
+            varGlobales.etatJeu = 2;
             //Debug.Log("lignedarrive");
             Application.LoadLevel("recapScene");
         }

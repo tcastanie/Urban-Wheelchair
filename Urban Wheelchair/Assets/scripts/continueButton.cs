@@ -20,7 +20,7 @@ public class continueButton : MonoBehaviour {
         varGlobales.isFinished = false;
         varGlobales.tempsLast = (int) varGlobales.tempsActuel;
         varGlobales.isFirstTime = false;
-        varGlobales.etatJeu = 2;
+        varGlobales.etatJeu = 1;
         varGlobales.moneyStart = 80000;
         Application.LoadLevel("mainScene");
     }

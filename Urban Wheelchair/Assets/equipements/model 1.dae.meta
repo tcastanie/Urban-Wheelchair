@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 81b888a6ab0e5994a8cb056ebf99e646
+timeCreated: 1449942984
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: foot
+    100002: foot 1
+    100004: ID53
+    100006: ID61
+    100008: ID67
+    100010: ID73
+    100012: instance_0
+    100014: instance_1
+    100016: instance_10
+    100018: instance_11
+    100020: instance_12
+    100022: instance_13
+    100024: instance_14
+    100026: instance_15
+    100028: instance_16
+    100030: instance_17
+    100032: instance_18
+    100034: instance_19
+    100036: instance_2
+    100038: instance_20
+    100040: instance_21
+    100042: instance_22
+    100044: instance_23
+    100046: instance_24
+    100048: instance_3
+    100050: instance_4
+    100052: instance_5
+    100054: instance_6
+    100056: instance_7
+    100058: instance_8
+    100060: instance_9
+    100062: Last Saved SketchUp View
+    100064: //RootNode
+    100066: vertical_bar
+    100068: vertical_bar 1
+    100070: vertical_bar 10
+    100072: vertical_bar 11
+    100074: vertical_bar 12
+    100076: vertical_bar 13
+    100078: vertical_bar 14
+    100080: vertical_bar 15
+    100082: vertical_bar 16
+    100084: vertical_bar 17
+    100086: vertical_bar 18
+    100088: vertical_bar 19
+    100090: vertical_bar 2
+    100092: vertical_bar 20
+    100094: vertical_bar 21
+    100096: vertical_bar 22
+    100098: vertical_bar 3
+    100100: vertical_bar 4
+    100102: vertical_bar 5
+    100104: vertical_bar 6
+    100106: vertical_bar 7
+    100108: vertical_bar 8
+    100110: vertical_bar 9
+    400000: foot
+    400002: foot 1
+    400004: ID53
+    400006: ID61
+    400008: ID67
+    400010: ID73
+    400012: instance_0
+    400014: instance_1
+    400016: instance_10
+    400018: instance_11
+    400020: instance_12
+    400022: instance_13
+    400024: instance_14
+    400026: instance_15
+    400028: instance_16
+    400030: instance_17
+    400032: instance_18
+    400034: instance_19
+    400036: instance_2
+    400038: instance_20
+    400040: instance_21
+    400042: instance_22
+    400044: instance_23
+    400046: instance_24
+    400048: instance_3
+    400050: instance_4
+    400052: instance_5
+    400054: instance_6
+    400056: instance_7
+    400058: instance_8
+    400060: instance_9
+    400062: Last Saved SketchUp View
+    400064: //RootNode
+    400066: vertical_bar
+    400068: vertical_bar 1
+    400070: vertical_bar 10
+    400072: vertical_bar 11
+    400074: vertical_bar 12
+    400076: vertical_bar 13
+    400078: vertical_bar 14
+    400080: vertical_bar 15
+    400082: vertical_bar 16
+    400084: vertical_bar 17
+    400086: vertical_bar 18
+    400088: vertical_bar 19
+    400090: vertical_bar 2
+    400092: vertical_bar 20
+    400094: vertical_bar 21
+    400096: vertical_bar 22
+    400098: vertical_bar 3
+    400100: vertical_bar 4
+    400102: vertical_bar 5
+    400104: vertical_bar 6
+    400106: vertical_bar 7
+    400108: vertical_bar 8
+    400110: vertical_bar 9
+    2300000: foot
+    2300002: foot 1
+    2300004: ID53
+    2300006: ID61
+    2300008: ID67
+    2300010: ID73
+    2300012: //RootNode
+    2300014: vertical_bar
+    2300016: vertical_bar 1
+    2300018: vertical_bar 10
+    2300020: vertical_bar 11
+    2300022: vertical_bar 12
+    2300024: vertical_bar 13
+    2300026: vertical_bar 14
+    2300028: vertical_bar 15
+    2300030: vertical_bar 16
+    2300032: vertical_bar 17
+    2300034: vertical_bar 18
+    2300036: vertical_bar 19
+    2300038: vertical_bar 2
+    2300040: vertical_bar 20
+    2300042: vertical_bar 21
+    2300044: vertical_bar 22
+    2300046: vertical_bar 3
+    2300048: vertical_bar 4
+    2300050: vertical_bar 5
+    2300052: vertical_bar 6
+    2300054: vertical_bar 7
+    2300056: vertical_bar 8
+    2300058: vertical_bar 9
+    3300000: foot
+    3300002: foot 1
+    3300004: ID53
+    3300006: ID61
+    3300008: ID67
+    3300010: ID73
+    3300012: //RootNode
+    3300014: vertical_bar
+    3300016: vertical_bar 1
+    3300018: vertical_bar 10
+    3300020: vertical_bar 11
+    3300022: vertical_bar 12
+    3300024: vertical_bar 13
+    3300026: vertical_bar 14
+    3300028: vertical_bar 15
+    3300030: vertical_bar 16
+    3300032: vertical_bar 17
+    3300034: vertical_bar 18
+    3300036: vertical_bar 19
+    3300038: vertical_bar 2
+    3300040: vertical_bar 20
+    3300042: vertical_bar 21
+    3300044: vertical_bar 22
+    3300046: vertical_bar 3
+    3300048: vertical_bar 4
+    3300050: vertical_bar 5
+    3300052: vertical_bar 6
+    3300054: vertical_bar 7
+    3300056: vertical_bar 8
+    3300058: vertical_bar 9
+    4300000: SketchUp
+    4300002: ID53
+    4300004: ID61
+    4300006: ID67
+    4300008: ID73
+    4300010: vertical_bar
+    4300012: foot
+    6400000: foot
+    6400002: foot 1
+    6400004: ID53
+    6400006: ID61
+    6400008: ID67
+    6400010: ID73
+    6400012: //RootNode
+    6400014: vertical_bar
+    6400016: vertical_bar 1
+    6400018: vertical_bar 10
+    6400020: vertical_bar 11
+    6400022: vertical_bar 12
+    6400024: vertical_bar 13
+    6400026: vertical_bar 14
+    6400028: vertical_bar 15
+    6400030: vertical_bar 16
+    6400032: vertical_bar 17
+    6400034: vertical_bar 18
+    6400036: vertical_bar 19
+    6400038: vertical_bar 2
+    6400040: vertical_bar 20
+    6400042: vertical_bar 21
+    6400044: vertical_bar 22
+    6400046: vertical_bar 3
+    6400048: vertical_bar 4
+    6400050: vertical_bar 5
+    6400052: vertical_bar 6
+    6400054: vertical_bar 7
+    6400056: vertical_bar 8
+    6400058: vertical_bar 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
