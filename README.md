@@ -6,7 +6,10 @@ Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 
 ## 12 décembre 2015
 
-![12dec01](./pictures/12dec.png)
+![12dec](./pictures/12dec.png)
+----
+![12dec02](./pictures/12dec02.png)
+![12dec01](./pictures/12dec01.png)
 
 ## 10 décembre 2015
 
