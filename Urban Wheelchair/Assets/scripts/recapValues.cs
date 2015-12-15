@@ -33,6 +33,6 @@ public class recapValues : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
-	}
+        Cursor.visible = true;
+    }
 }

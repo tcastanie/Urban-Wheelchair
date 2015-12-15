@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 0e64b4722d135f94caf8cf085a440cfe
+timeCreated: 1450202502
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f01000030010000310100003201000033010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9cf3207edbdb8474aaa5a6230297f0e1
+  longitude: 144.751667
+  latitude: 13.473599999999999
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -42.7044106, y: 2.64871001, z: -101.204887}
+      lookAt: {x: 15891.8369, y: -4056.75903, z: 44208.3984}
+      up: {x: .0290656202, y: .996304572, z: .0808235407}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Component#13
+    100002: Component#13 1
+    100004: Component#13 2
+    100006: Component#13 3
+    100008: Component#13 4
+    100010: Component#13 5
+    100012: Component#13 6
+    100014: Component#13 7
+    100016: frawn
+    100018: frawn 1
+    100020: frawn 10
+    100022: frawn 11
+    100024: frawn 12
+    100026: frawn 13
+    100028: frawn 14
+    100030: frawn 15
+    100032: frawn 16
+    100034: frawn 17
+    100036: frawn 18
+    100038: frawn 19
+    100040: frawn 2
+    100042: frawn 20
+    100044: frawn 21
+    100046: frawn 22
+    100048: frawn 23
+    100050: frawn 24
+    100052: frawn 25
+    100054: frawn 26
+    100056: frawn 27
+    100058: frawn 28
+    100060: frawn 29
+    100062: frawn 3
+    100064: frawn 30
+    100066: frawn 31
+    100068: frawn 32
+    100070: frawn 33
+    100072: frawn 34
+    100074: frawn 35
+    100076: frawn 36
+    100078: frawn 37
+    100080: frawn 38
+    100082: frawn 39
+    100084: frawn 4
+    100086: frawn 40
+    100088: frawn 5
+    100090: frawn 6
+    100092: frawn 7
+    100094: frawn 8
+    100096: frawn 9
+    100098: frawn#1
+    100100: frawn#1 1
+    100102: frawn#1 10
+    100104: frawn#1 11
+    100106: frawn#1 2
+    100108: frawn#1 3
+    100110: frawn#1 4
+    100112: frawn#1 5
+    100114: frawn#1 6
+    100116: frawn#1 7
+    100118: frawn#1 8
+    100120: frawn#1 9
+    100122: frawn#2
+    100124: frawn#3
+    100126: frawn#3 1
+    100128: frawn#3 10
+    100130: frawn#3 11
+    100132: frawn#3 12
+    100134: frawn#3 13
+    100136: frawn#3 14
+    100138: frawn#3 15
+    100140: frawn#3 2
+    100142: frawn#3 3
+    100144: frawn#3 4
+    100146: frawn#3 5
+    100148: frawn#3 6
+    100150: frawn#3 7
+    100152: frawn#3 8
+    100154: frawn#3 9
+    100156: Group 100
+    100158: Group 106
+    100160: Group 110
+    100162: Group 128
+    100164: Group 13
+    100166: Group 132
+    100168: Group 136
+    100170: Group 140
+    100172: Group 144
+    100174: Group 15
+    100176: Group 160
+    100178: Group 164
+    100180: Group 168
+    100182: Group 17
+    100184: Group 172
+    100186: Group 176
+    100188: Group 180
+    100190: Group 186
+    100192: Group 19
+    100194: Group 192
+    100196: Group 196
+    100198: Group 2
+    100200: Group 202
+    100202: Group 208
+    100204: Group 21
+    100206: Group 212
+    100208: Group 216
+    100210: Group 222
+    100212: Group 226
+    100214: Group 23
+    100216: Group 230
+    100218: Group 234
+    100220: Group 238
+    100222: Group 242
+    100224: Group 246
+    100226: Group 25
+    100228: Group 250
+    100230: Group 254
+    100232: Group 258
+    100234: Group 27
+    100236: Group 274
+    100238: Group 278
+    100240: Group 28
+    100242: Group 286
+    100244: Group 290
+    100246: Group 294
+    100248: Group 3
+    100250: Group 30
+    100252: Group 300
+    100254: Group 31
+    100256: Group 33
+    100258: Group 35
+    100260: Group 37
+    100262: Group 39
+    100264: Group 40
+    100266: Group 42
+    100268: Group 44
+    100270: Group 46
+    100272: Group 47
+    100274: Group 49
+    100276: Group 51
+    100278: Group 53
+    100280: Group 54
+    100282: Group 56
+    100284: Group 58
+    100286: Group 60
+    100288: Group 61
+    100290: Group 71
+    100292: Group 73
+    100294: Group 75
+    100296: Group 77
+    100298: Group 82
+    100300: Group 88
+    100302: Group 92
+    100304: Group 96
+    100306: palm
+    100308: PALMERA
+    100310: //RootNode
+    100312: ske15
+    100314: skeCC07
+    100316: trunk1
+    400000: Component#13
+    400002: Component#13 1
+    400004: Component#13 2
+    400006: Component#13 3
+    400008: Component#13 4
+    400010: Component#13 5
+    400012: Component#13 6
+    400014: Component#13 7
+    400016: frawn
+    400018: frawn 1
+    400020: frawn 10
+    400022: frawn 11
+    400024: frawn 12
+    400026: frawn 13
+    400028: frawn 14
+    400030: frawn 15
+    400032: frawn 16
+    400034: frawn 17
+    400036: frawn 18
+    400038: frawn 19
+    400040: frawn 2
+    400042: frawn 20
+    400044: frawn 21
+    400046: frawn 22
+    400048: frawn 23
+    400050: frawn 24
+    400052: frawn 25
+    400054: frawn 26
+    400056: frawn 27
+    400058: frawn 28
+    400060: frawn 29
+    400062: frawn 3
+    400064: frawn 30
+    400066: frawn 31
+    400068: frawn 32
+    400070: frawn 33
+    400072: frawn 34
+    400074: frawn 35
+    400076: frawn 36
+    400078: frawn 37
+    400080: frawn 38
+    400082: frawn 39
+    400084: frawn 4
+    400086: frawn 40
+    400088: frawn 5
+    400090: frawn 6
+    400092: frawn 7
+    400094: frawn 8
+    400096: frawn 9
+    400098: frawn#1
+    400100: frawn#1 1
+    400102: frawn#1 10
+    400104: frawn#1 11
+    400106: frawn#1 2
+    400108: frawn#1 3
+    400110: frawn#1 4
+    400112: frawn#1 5
+    400114: frawn#1 6
+    400116: frawn#1 7
+    400118: frawn#1 8
+    400120: frawn#1 9
+    400122: frawn#2
+    400124: frawn#3
+    400126: frawn#3 1
+    400128: frawn#3 10
+    400130: frawn#3 11
+    400132: frawn#3 12
+    400134: frawn#3 13
+    400136: frawn#3 14
+    400138: frawn#3 15
+    400140: frawn#3 2
+    400142: frawn#3 3
+    400144: frawn#3 4
+    400146: frawn#3 5
+    400148: frawn#3 6
+    400150: frawn#3 7
+    400152: frawn#3 8
+    400154: frawn#3 9
+    400156: Group 100
+    400158: Group 106
+    400160: Group 110
+    400162: Group 128
+    400164: Group 13
+    400166: Group 132
+    400168: Group 136
+    400170: Group 140
+    400172: Group 144
+    400174: Group 15
+    400176: Group 160
+    400178: Group 164
+    400180: Group 168
+    400182: Group 17
+    400184: Group 172
+    400186: Group 176
+    400188: Group 180
+    400190: Group 186
+    400192: Group 19
+    400194: Group 192
+    400196: Group 196
+    400198: Group 2
+    400200: Group 202
+    400202: Group 208
+    400204: Group 21
+    400206: Group 212
+    400208: Group 216
+    400210: Group 222
+    400212: Group 226
+    400214: Group 23
+    400216: Group 230
+    400218: Group 234
+    400220: Group 238
+    400222: Group 242
+    400224: Group 246
+    400226: Group 25
+    400228: Group 250
+    400230: Group 254
+    400232: Group 258
+    400234: Group 27
+    400236: Group 274
+    400238: Group 278
+    400240: Group 28
+    400242: Group 286
+    400244: Group 290
+    400246: Group 294
+    400248: Group 3
+    400250: Group 30
+    400252: Group 300
+    400254: Group 31
+    400256: Group 33
+    400258: Group 35
+    400260: Group 37
+    400262: Group 39
+    400264: Group 40
+    400266: Group 42
+    400268: Group 44
+    400270: Group 46
+    400272: Group 47
+    400274: Group 49
+    400276: Group 51
+    400278: Group 53
+    400280: Group 54
+    400282: Group 56
+    400284: Group 58
+    400286: Group 60
+    400288: Group 61
+    400290: Group 71
+    400292: Group 73
+    400294: Group 75
+    400296: Group 77
+    400298: Group 82
+    400300: Group 88
+    400302: Group 92
+    400304: Group 96
+    400306: palm
+    400308: PALMERA
+    400310: //RootNode
+    400312: ske15
+    400314: skeCC07
+    400316: trunk1
+    2300000: Component#13
+    2300002: Component#13 1
+    2300004: Component#13 2
+    2300006: Component#13 3
+    2300008: Component#13 4
+    2300010: Component#13 5
+    2300012: Component#13 6
+    2300014: Component#13 7
+    2300016: frawn
+    2300018: frawn 1
+    2300020: frawn 10
+    2300022: frawn 11
+    2300024: frawn 12
+    2300026: frawn 13
+    2300028: frawn 14
+    2300030: frawn 15
+    2300032: frawn 16
+    2300034: frawn 17
+    2300036: frawn 18
+    2300038: frawn 19
+    2300040: frawn 2
+    2300042: frawn 20
+    2300044: frawn 21
+    2300046: frawn 22
+    2300048: frawn 23
+    2300050: frawn 24
+    2300052: frawn 25
+    2300054: frawn 26
+    2300056: frawn 27
+    2300058: frawn 28
+    2300060: frawn 29
+    2300062: frawn 3
+    2300064: frawn 30
+    2300066: frawn 31
+    2300068: frawn 32
+    2300070: frawn 33
+    2300072: frawn 34
+    2300074: frawn 35
+    2300076: frawn 36
+    2300078: frawn 37
+    2300080: frawn 38
+    2300082: frawn 39
+    2300084: frawn 4
+    2300086: frawn 40
+    2300088: frawn 5
+    2300090: frawn 6
+    2300092: frawn 7
+    2300094: frawn 8
+    2300096: frawn 9
+    2300098: frawn#1
+    2300100: frawn#1 1
+    2300102: frawn#1 10
+    2300104: frawn#1 11
+    2300106: frawn#1 2
+    2300108: frawn#1 3
+    2300110: frawn#1 4
+    2300112: frawn#1 5
+    2300114: frawn#1 6
+    2300116: frawn#1 7
+    2300118: frawn#1 8
+    2300120: frawn#1 9
+    2300122: frawn#2
+    2300124: frawn#3
+    2300126: frawn#3 1
+    2300128: frawn#3 10
+    2300130: frawn#3 11
+    2300132: frawn#3 12
+    2300134: frawn#3 13
+    2300136: frawn#3 14
+    2300138: frawn#3 15
+    2300140: frawn#3 2
+    2300142: frawn#3 3
+    2300144: frawn#3 4
+    2300146: frawn#3 5
+    2300148: frawn#3 6
+    2300150: frawn#3 7
+    2300152: frawn#3 8
+    2300154: frawn#3 9
+    2300156: Group 100
+    2300158: Group 106
+    2300160: Group 110
+    2300162: Group 128
+    2300164: Group 13
+    2300166: Group 132
+    2300168: Group 136
+    2300170: Group 140
+    2300172: Group 144
+    2300174: Group 15
+    2300176: Group 160
+    2300178: Group 164
+    2300180: Group 168
+    2300182: Group 17
+    2300184: Group 172
+    2300186: Group 176
+    2300188: Group 180
+    2300190: Group 186
+    2300192: Group 19
+    2300194: Group 192
+    2300196: Group 196
+    2300198: Group 202
+    2300200: Group 208
+    2300202: Group 21
+    2300204: Group 212
+    2300206: Group 216
+    2300208: Group 222
+    2300210: Group 226
+    2300212: Group 23
+    2300214: Group 230
+    2300216: Group 234
+    2300218: Group 238
+    2300220: Group 242
+    2300222: Group 246
+    2300224: Group 25
+    2300226: Group 250
+    2300228: Group 254
+    2300230: Group 258
+    2300232: Group 274
+    2300234: Group 278
+    2300236: Group 28
+    2300238: Group 286
+    2300240: Group 290
+    2300242: Group 294
+    2300244: Group 3
+    2300246: Group 300
+    2300248: Group 31
+    2300250: Group 33
+    2300252: Group 35
+    2300254: Group 37
+    2300256: Group 40
+    2300258: Group 42
+    2300260: Group 44
+    2300262: Group 47
+    2300264: Group 49
+    2300266: Group 51
+    2300268: Group 54
+    2300270: Group 56
+    2300272: Group 58
+    2300274: Group 61
+    2300276: Group 71
+    2300278: Group 73
+    2300280: Group 75
+    2300282: Group 77
+    2300284: Group 82
+    2300286: Group 88
+    2300288: Group 92
+    2300290: Group 96
+    2300292: palm
+    2300294: //RootNode
+    2300296: trunk1
+    3300000: Component#13
+    3300002: Component#13 1
+    3300004: Component#13 2
+    3300006: Component#13 3
+    3300008: Component#13 4
+    3300010: Component#13 5
+    3300012: Component#13 6
+    3300014: Component#13 7
+    3300016: frawn
+    3300018: frawn 1
+    3300020: frawn 10
+    3300022: frawn 11
+    3300024: frawn 12
+    3300026: frawn 13
+    3300028: frawn 14
+    3300030: frawn 15
+    3300032: frawn 16
+    3300034: frawn 17
+    3300036: frawn 18
+    3300038: frawn 19
+    3300040: frawn 2
+    3300042: frawn 20
+    3300044: frawn 21
+    3300046: frawn 22
+    3300048: frawn 23
+    3300050: frawn 24
+    3300052: frawn 25
+    3300054: frawn 26
+    3300056: frawn 27
+    3300058: frawn 28
+    3300060: frawn 29
+    3300062: frawn 3
+    3300064: frawn 30
+    3300066: frawn 31
+    3300068: frawn 32
+    3300070: frawn 33
+    3300072: frawn 34
+    3300074: frawn 35
+    3300076: frawn 36
+    3300078: frawn 37
+    3300080: frawn 38
+    3300082: frawn 39
+    3300084: frawn 4
+    3300086: frawn 40
+    3300088: frawn 5
+    3300090: frawn 6
+    3300092: frawn 7
+    3300094: frawn 8
+    3300096: frawn 9
+    3300098: frawn#1
+    3300100: frawn#1 1
+    3300102: frawn#1 10
+    3300104: frawn#1 11
+    3300106: frawn#1 2
+    3300108: frawn#1 3
+    3300110: frawn#1 4
+    3300112: frawn#1 5
+    3300114: frawn#1 6
+    3300116: frawn#1 7
+    3300118: frawn#1 8
+    3300120: frawn#1 9
+    3300122: frawn#2
+    3300124: frawn#3
+    3300126: frawn#3 1
+    3300128: frawn#3 10
+    3300130: frawn#3 11
+    3300132: frawn#3 12
+    3300134: frawn#3 13
+    3300136: frawn#3 14
+    3300138: frawn#3 15
+    3300140: frawn#3 2
+    3300142: frawn#3 3
+    3300144: frawn#3 4
+    3300146: frawn#3 5
+    3300148: frawn#3 6
+    3300150: frawn#3 7
+    3300152: frawn#3 8
+    3300154: frawn#3 9
+    3300156: Group 100
+    3300158: Group 106
+    3300160: Group 110
+    3300162: Group 128
+    3300164: Group 13
+    3300166: Group 132
+    3300168: Group 136
+    3300170: Group 140
+    3300172: Group 144
+    3300174: Group 15
+    3300176: Group 160
+    3300178: Group 164
+    3300180: Group 168
+    3300182: Group 17
+    3300184: Group 172
+    3300186: Group 176
+    3300188: Group 180
+    3300190: Group 186
+    3300192: Group 19
+    3300194: Group 192
+    3300196: Group 196
+    3300198: Group 202
+    3300200: Group 208
+    3300202: Group 21
+    3300204: Group 212
+    3300206: Group 216
+    3300208: Group 222
+    3300210: Group 226
+    3300212: Group 23
+    3300214: Group 230
+    3300216: Group 234
+    3300218: Group 238
+    3300220: Group 242
+    3300222: Group 246
+    3300224: Group 25
+    3300226: Group 250
+    3300228: Group 254
+    3300230: Group 258
+    3300232: Group 274
+    3300234: Group 278
+    3300236: Group 28
+    3300238: Group 286
+    3300240: Group 290
+    3300242: Group 294
+    3300244: Group 3
+    3300246: Group 300
+    3300248: Group 31
+    3300250: Group 33
+    3300252: Group 35
+    3300254: Group 37
+    3300256: Group 40
+    3300258: Group 42
+    3300260: Group 44
+    3300262: Group 47
+    3300264: Group 49
+    3300266: Group 51
+    3300268: Group 54
+    3300270: Group 56
+    3300272: Group 58
+    3300274: Group 61
+    3300276: Group 71
+    3300278: Group 73
+    3300280: Group 75
+    3300282: Group 77
+    3300284: Group 82
+    3300286: Group 88
+    3300288: Group 92
+    3300290: Group 96
+    3300292: palm
+    3300294: //RootNode
+    3300296: trunk1
+    4300000: Mesh plazadeespana
+    4300002: Mesh Group 3
+    4300004: Mesh Component#13
+    4300006: Mesh Group 13
+    4300008: Mesh Group 15
+    4300010: Mesh Group 17
+    4300012: Mesh Group 19
+    4300014: Mesh Group 23
+    4300016: Mesh Group 25
+    4300018: Mesh Group 28
+    4300020: Mesh Group 31
+    4300022: Mesh Group 33
+    4300024: Mesh Group 40
+    4300026: Mesh Group 42
+    4300028: Mesh Group 47
+    4300030: Mesh Group 49
+    4300032: Mesh Group 51
+    4300034: Mesh Group 75
+    4300036: Mesh Group 77
+    4300038: Mesh frawn
+    4300040: Mesh Group 82
+    4300042: Mesh frawn#1
+    4300044: Mesh frawn#3
+    4300046: Mesh frawn#2
+    4300048: Mesh trunk1
+    4300050: Mesh palm
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

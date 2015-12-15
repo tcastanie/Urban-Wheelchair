@@ -161,6 +161,34 @@ ModelImporter:
     4300050: Posts_2
     4300052: Chair_2
     4300054: Chair_1_2
+    6400000: bar
+    6400002: bar_2
+    6400004: bar_3
+    6400006: Chair
+    6400008: Chair_1
+    6400010: Chair_1_2
+    6400012: Chair_2
+    6400014: Cylinder
+    6400016: Cylinder_2
+    6400018: Cylinder_3
+    6400020: Cylinder_4
+    6400022: Cylinder_5
+    6400024: Cylinder_6
+    6400026: Cylinder_7
+    6400028: Cylinder_8
+    6400030: foot
+    6400032: foot_2
+    6400034: foot_3
+    6400036: Posts
+    6400038: Posts_2
+    6400040: Table
+    6400042: Table_2
+    6400044: top
+    6400046: top_2
+    6400048: top_3
+    6400050: umbrella
+    6400052: umbrella_2
+    6400054: umbrella_3
   materials:
     importMaterials: 1
     materialName: 1
@@ -186,7 +214,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

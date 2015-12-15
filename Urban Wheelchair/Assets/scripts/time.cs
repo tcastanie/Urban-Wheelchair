@@ -63,6 +63,10 @@ public class time : MonoBehaviour {
             varGlobales.moneyTravaux +
             varGlobales.moneyCorum);
 
+        if (Input.GetKeyDown(KeyCode.Escape)) {
+            Application.LoadLevel("accueil");
+        }
+
     }
 
 

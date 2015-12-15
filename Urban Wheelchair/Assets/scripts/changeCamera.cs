@@ -27,16 +27,28 @@ public class changeCamera : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         Cursor.visible = !varGlobales.isCamFauteuil;
-        if (Input.GetKeyDown(KeyCode.Space) && porte && !varGlobales.isCamFauteuil) {
-            porte = false;
-			cameraFauteuil.enabled = !cameraFauteuil.enabled;
-            cameraPlan.enabled = !cameraPlan.enabled;
-            varGlobales.isCamFauteuil = !varGlobales.isCamFauteuil;
 
-            //Debug.Log(varGlobales.isCamFauteuil);
-            GetComponent<CharacterController>().enabled = varGlobales.isCamFauteuil;
-            GetComponent<UnityStandardAssets.Characters.FirstPerson.FirstPersonController>().enabled = varGlobales.isCamFauteuil;
-            GetComponent<AudioSource>().enabled = varGlobales.isCamFauteuil;
+        if(varGlobales.moneyCurrent < 0) {
+            varGlobales.isMoneyNegative = true;
+        } else {
+            varGlobales.isMoneyNegative = false;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space) && porte && !varGlobales.isCamFauteuil) {
+            if (!varGlobales.isMoneyNegative) {
+                porte = false;
+                cameraFauteuil.enabled = !cameraFauteuil.enabled;
+                cameraPlan.enabled = !cameraPlan.enabled;
+                varGlobales.isCamFauteuil = !varGlobales.isCamFauteuil;
+
+                //Debug.Log(varGlobales.isCamFauteuil);
+                GetComponent<CharacterController>().enabled = varGlobales.isCamFauteuil;
+                GetComponent<UnityStandardAssets.Characters.FirstPerson.FirstPersonController>().enabled = varGlobales.isCamFauteuil;
+                GetComponent<AudioSource>().enabled = varGlobales.isCamFauteuil;
+            }
+            else {
+                //play sound biiiip
+            }
             
         }
 	}

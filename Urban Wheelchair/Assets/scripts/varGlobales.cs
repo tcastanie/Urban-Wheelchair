@@ -22,6 +22,9 @@ public static class varGlobales {
     public static bool isCamFauteuil = true;    //true si vue fps active, false si vue camera active
     public static int etatRampe;                //0 si escaliers, 1 si rampe, 2 si rampe-escalier
     public static int etatTrottoir;             //0 si trottoir mauvais, 1 si bien, 2 si mieux
+    public static int etatTravaux;               //0 si travauxbad, 1 si good
+    public static int etatTerrasse;             //0 si bad, 1 si good
+    public static int etatCorum;                //0 si bad, 1 si good
 
     public static int moneyEsc;
     public static int moneyTrottoir;
@@ -43,18 +46,18 @@ public static class varGlobales {
     public static int prixCorumGood = 24000;
 
     public static string currentExp;
-    public static string expEscalier = "Cet escalier est adapté aux piétons, mais il ne l'est pas envers les personnes en fauteuil roulant\n\n" + prixEsc + "€";
-    public static string expRampe = "Cette rampe est idéale pour les personnes en fauteuil roulant, mais n'est pas pratique pour le reste des piétons\n\n" + prixRampe + "€";
-    public static string expRampeEsc = "Cet équipement s'adapte aux besoins de tous les usagers\n\n" + prixRampeEsc + "€";
-    public static string expTrottoirBad = "Ce trottoir empêche un fauteuil roulant de traverser la route\n\n" + prixTrottoirBad + "€";
-    public static string expTrottoirBien = "Ce trottoir qui possède un pente douce vers la route est adapté aux fauteuils roulants\n\n" + prixTrottoirBien + "€";
-    public static string expTrottoirMieux = "En plus d'être adapté aux fauteuils roulants, ce trottoir possède des picots afin de signaler la présence d'un passage piéton aux personnes aveugles\n\n" + prixTrottoirMieux + "€";
-    public static string expTerrasseBad = "Le restaurateur a placé ses tables en terrasse sans se soucier des passants utilisant un fauteuil roulant ou une pousette\n\n" + prixTerrasseBad + "€";
-    public static string expTerrasseGood = "Les tables de ce restaurant sont maintenant placées convenablement et permettent un passage à tout type de piétons\n\n" + prixTerrasseGood + "€" + "\n(frais de dossier pour la création d'une norme municipale";
-    public static string expTravauxBad = "Le passage laissé à l'attention des piétons est trop étroit pour qu'un fauteuil roulant puisse passer\n\n" + prixTravauxBad + "€";
-    public static string expTravauxGood = "Le passage destiné aux piétons est suffisament large pour passer\n\n" + prixTravauxGood + "€" + "\n(nécéssaires à la perte engendrée par la restructuration du plan du chantier)";
-    public static string expCorumBad = "Cet immense escalier est un obstacle long et fatiguant à contourner\n\n" + prixCorumBad + "€";
-    public static string expCorumGood = "L'ascenseur permet aux personnes à mobilité réduite d'accéder au sommet des marches sans se fatiguer\n\n" + prixCorumGood + "€";
+    public static string expEscalier = "ESCALIER\n\nCet escalier est adapté aux piétons, mais il ne l'est pas envers les personnes en fauteuil roulant\n\n" + prixEsc + "€";
+    public static string expRampe = "ESCALIER RAMPE\n\nCette rampe est idéale pour les personnes en fauteuil roulant, mais n'est pas pratique pour le reste des piétons\n\n" + prixRampe + "€";
+    public static string expRampeEsc = "ESCALIER-RAMPE\n\nCet équipement s'adapte aux besoins de tous les usagers\n\n" + prixRampeEsc + "€";
+    public static string expTrottoirBad = "TROTTOIR NON-ADAPTE\n\nCe trottoir empêche un fauteuil roulant de traverser la route\n\n" + prixTrottoirBad + "€";
+    public static string expTrottoirBien = "TROTTOIR ADAPTE\n\nCe trottoir qui possède un pente douce vers la route est adapté aux fauteuils roulants\n\n" + prixTrottoirBien + "€";
+    public static string expTrottoirMieux = "TROTTOIR ADAPTE\n\nEn plus d'être adapté aux fauteuils roulants, ce trottoir possède des picots afin de signaler la présence d'un passage piéton aux personnes aveugles\n\n" + prixTrottoirMieux + "€";
+    public static string expTerrasseBad = "TERRASSE DE RESTAURANT ENCOMBREE\n\nLe restaurateur a placé ses tables en terrasse sans se soucier des passants utilisant un fauteuil roulant ou une pousette\n\n" + prixTerrasseBad + "€";
+    public static string expTerrasseGood = "TERRASSE DE RESTAURANT DEGAGEE\n\nLes tables de ce restaurant sont maintenant placées convenablement et permettent un passage à tout type de piétons\n\n" + prixTerrasseGood + "€" + "\n(frais de dossier pour la création d'une norme municipale)";
+    public static string expTravauxBad = "TRAVAUX\n\nLe passage laissé à l'attention des piétons est trop étroit pour qu'un fauteuil roulant puisse passer\n\n" + prixTravauxBad + "€";
+    public static string expTravauxGood = "TRAVAUX\n\nLe passage destiné aux piétons est suffisament large pour passer\n\n" + prixTravauxGood + "€" + "\n(nécéssaires à la perte engendrée par la restructuration du plan du chantier)";
+    public static string expCorumBad = "GRAND ESCALIER\n\nCet immense escalier est un obstacle long et fatiguant à contourner\n\n" + prixCorumBad + "€";
+    public static string expCorumGood = "GRAND ESCALIER\n\nL'ascenseur permet aux personnes à mobilité réduite d'accéder au sommet des marches sans se fatiguer\n\n" + prixCorumGood + "€";
 
 
 }
