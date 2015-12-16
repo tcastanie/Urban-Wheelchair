@@ -7,6 +7,9 @@ public class changeCamera : MonoBehaviour {
 	public Camera cameraFauteuil;
 	public Camera cameraPlan;
 
+    public AudioSource bipGood;
+    public AudioSource bipBad;
+
     bool porte;
 
 	// Use this for initialization
@@ -36,6 +39,7 @@ public class changeCamera : MonoBehaviour {
 
         if (Input.GetKeyDown(KeyCode.Space) && porte && !varGlobales.isCamFauteuil) {
             if (!varGlobales.isMoneyNegative) {
+                bipGood.Play();
                 porte = false;
                 cameraFauteuil.enabled = !cameraFauteuil.enabled;
                 cameraPlan.enabled = !cameraPlan.enabled;
@@ -48,6 +52,7 @@ public class changeCamera : MonoBehaviour {
             }
             else {
                 //play sound biiiip
+                bipBad.Play();
             }
             
         }

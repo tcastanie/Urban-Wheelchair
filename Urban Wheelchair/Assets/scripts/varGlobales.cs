@@ -41,9 +41,9 @@ public static class varGlobales {
     public static int prixTerrasseBad = 0;
     public static int prixTerrasseGood = 10000;
     public static int prixTravauxBad = 0;
-    public static int prixTravauxGood = 6000;
+    public static int prixTravauxGood = 6500;
     public static int prixCorumBad = 0;
-    public static int prixCorumGood = 24000;
+    public static int prixCorumGood = 16500;
 
     public static string currentExp;
     public static string expEscalier = "ESCALIER\n\nCet escalier est adapté aux piétons, mais il ne l'est pas envers les personnes en fauteuil roulant\n\n" + prixEsc + "€";

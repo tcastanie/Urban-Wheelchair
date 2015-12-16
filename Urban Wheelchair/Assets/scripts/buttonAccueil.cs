@@ -9,7 +9,7 @@ public class buttonAccueil : MonoBehaviour {
         if (varGlobales.isFirstTime) {
             varGlobales.moneyStart = 0;
         } else {
-            varGlobales.moneyStart = 30000;
+            varGlobales.moneyStart = 20000;
         }
         varGlobales.etatJeu = 1;
         Application.LoadLevel("mainScene");

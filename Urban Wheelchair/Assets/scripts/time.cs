@@ -10,6 +10,8 @@ public class time : MonoBehaviour {
     public GameObject panelExplication;
     public GameObject textExplication;
 
+    public AudioSource musiquePlan;
+
     bool porte;
 
     // Use this for initialization
@@ -31,6 +33,10 @@ public class time : MonoBehaviour {
         } else {
             textArgent.GetComponent<Text>().text = sArgent + " euros";
         }
+
+        if (!varGlobales.isCamFauteuil) {
+            musiquePlan.Play();
+        }
     }
 	
 	// Update is called once per frame
@@ -39,6 +45,10 @@ public class time : MonoBehaviour {
         if (varGlobales.isCamFauteuil && porte) {
             StartCoroutine(timer());
             porte = false;
+        }
+
+        if (varGlobales.isCamFauteuil) {
+            musiquePlan.Stop();
         }
 
         string sArgent = varGlobales.moneyCurrent.ToString().PadLeft(6, '0');
