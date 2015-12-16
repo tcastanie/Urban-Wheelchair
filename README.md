@@ -4,6 +4,12 @@ Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 
 **[Cahier des charges](./Cahier des charges/cahierDesCharges.md)**
 
+## 14-15-16 décembre
+
+![travailMonstrueux](./pictures/2015-12-16_18-50-19.png)
+
+[Présentation orale](./présentation_urban-wheelchair_Bazia-Castanié.pdf) _(pdf)_
+
 ## 12 décembre 2015
 
 ![12dec](./pictures/12dec.png)
