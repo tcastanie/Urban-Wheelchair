@@ -2,6 +2,7 @@ Initialize engine version: 5.2.1f1 (44735ea161b3)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
+<<<<<<< HEAD
     Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
     Vendor:   NVIDIA
     VRAM:     1990 MB
@@ -36,6 +37,42 @@ UnloadTime: 2.994675 ms
 
 Unloading 6043 unused Assets to reduce memory usage. Loaded Objects now: 517.
 Total: 3.120196 ms (FindLiveObjects: 0.111647 ms CreateObjectMapping: 0.132127 ms MarkObjects: 0.212395 ms  DeleteObjects: 2.663365 ms)
+=======
+    Renderer: AMD Radeon R7 200 Series (ID=0x6658)
+    Vendor:   ATI
+    VRAM:     2027 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.075 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Thibaut\Travail\Urban-Wheelchair\Urban Wheelchair\urbanWheelchair_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ce4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.418160 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 8380.
+Total: 1.819126 ms (FindLiveObjects: 0.233851 ms CreateObjectMapping: 0.373868 ms MarkObjects: 1.106943 ms  DeleteObjects: 0.102997 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.204920 ms
+
+Unloading 6049 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 3.980599 ms (FindLiveObjects: 0.201229 ms CreateObjectMapping: 0.281134 ms MarkObjects: 0.253277 ms  DeleteObjects: 3.244592 ms)
+>>>>>>> 9911152d46113efd21d4ff935d60d48cb70edba6
 
 quit
  
