@@ -2,7 +2,19 @@
 
 Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
 
-**[Cahier des charges](./Cahier des charges/cahierDesCharges.md)**
+----
+
+- **[Cahier des charges](./Cahier des charges/cahierDesCharges.md)**
+- **[Présentation Jeu sérieux](./présentation_urban-wheelchair_Bazia-Castanié.pdf)**
+- **Rapport Jeu sérieux**
+- **Manuel d'utilisation Jeu sérieux**
+
+----
+
+- **[Présentation Son & Musique](./urban-wheelchair_presentation_musique_Bazia_Castanié.pdf)**
+- **[Rapport Son & Musique](./rapport-SonMusique-Bazia-Castanié_UrbanWheelchair.pdf)**
+
+----
 
 ## 14-15-16 décembre
 
