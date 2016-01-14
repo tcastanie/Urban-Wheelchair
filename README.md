@@ -1,26 +1,27 @@
 # Urban-Wheelchair
 
-Projet M2 IMAGINA - Jeux Sérieux / Son et Musique
+Projet M2 IMAGINA - Jeux Sérieux / Son & Musique
+
+- **[Cahier des charges](./Cahier des charges/cahierDesCharges.md)** 
+- **[Rapport Jeu sérieux](./compte-rendu_UrbanWheelchair_Castanié-Bazia.pdf)** _(pdf)_
+- **[Manuel d'utilisation Jeu sérieux](./manuel-utilisateur_Bazia-Castanié.pdf)** _(pdf)_
+- **[Bande annonce du jeu](https://youtu.be/p38Hv0X_nsw)** sur YouTube
+- **[Présentation orale Jeu sérieux](./présentation_urban-wheelchair_Bazia-Castanié.pdf)** _(pdf)_
 
 ----
 
-- **[Cahier des charges](./Cahier des charges/cahierDesCharges.md)**
-- **[Présentation Jeu sérieux](./présentation_urban-wheelchair_Bazia-Castanié.pdf)**
-- **Rapport Jeu sérieux**
-- **Manuel d'utilisation Jeu sérieux**
+- **[Rapport Son & Musique](./rapport-SonMusique-Bazia-Castanié_UrbanWheelchair.pdf)** _(pdf)_
+- **[Présentation orale Son & Musique](./urban-wheelchair_presentation_musique_Bazia_Castanié.pdf)** _(pdf)_
 
 ----
-
-- **[Présentation Son & Musique](./urban-wheelchair_presentation_musique_Bazia_Castanié.pdf)**
-- **[Rapport Son & Musique](./rapport-SonMusique-Bazia-Castanié_UrbanWheelchair.pdf)**
-
 ----
+
+# Blog de développement
 
 ## 14-15-16 décembre
 
 ![travailMonstrueux](./pictures/2015-12-16_18-50-19.png)
 
-[Présentation orale](./présentation_urban-wheelchair_Bazia-Castanié.pdf) _(pdf)_
 
 ## 12 décembre 2015
 
