@@ -14,6 +14,9 @@ Projet M2 IMAGINA - Jeux Sérieux / Son & Musique
 - **[Présentation orale Son & Musique](./urban-wheelchair_presentation_musique_Bazia_Castanié.pdf)** _(pdf)_
 
 ----
+
+![julie](https://writelatex.s3.amazonaws.com/jvhbdccvjrks/0eb19c3f035945b17110919ac937c21f)
+
 ----
 
 # Blog de développement
